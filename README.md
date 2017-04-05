@@ -10,11 +10,11 @@ AlexNet is also called ImageNet / K-Net(paper: Deep Contour Segmentation)
 #### ReLU Nonlinearity
 For sigmoid and tanh activation function, there are 2 disadvantages: vanishing gredient and exploding gradient problem. [More information](http://datascience.stackexchange.com/questions/15484/sigmoid-vs-relu-function-in-convnets)
 #### Training on Multiple GPUs
-</br>
+<br>
 #### Local Response Normalization
 Although ReLUs can prevent data from saturating without requiring input normalization (For sigmoid and tanh, gradient is the highest at 0), the unbounded activation of ReLUs requires local response normalization. This conception comes from bio-conception: lateral inhibition. [More information](https://prateekvjoshi.com/2016/04/05/what-is-local-response-normalization-in-convolutional-neural-networks/)
 #### Overlapping Pooling
-</br>
+<br>
 #### Overall Architecture
 <img src="http://vision03.csail.mit.edu/cnn_art/data/single_layer.png" width="700">`[image source] http://vision03.csail.mit.edu/cnn_art/`
 ### Reduce Overfitting
