@@ -37,8 +37,8 @@ Set a node's output to zero with probabilty 0.5 while training. At test time, we
 <img src="upSample.png" width="700">`[image source] http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/`
 
 ## SegNet
-
-
+<img src="http://mi.eng.cam.ac.uk/projects/segnet/images/segnet.png" width="700">
+<img src="http://img.blog.csdn.net/20150529110331912" width="700">
 
 
 
