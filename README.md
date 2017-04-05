@@ -16,7 +16,7 @@ Although ReLUs can prevent data from saturating without requiring input normaliz
 #### Overlapping Pooling
 
 #### Overall Architecture
-<img src="http://vision03.csail.mit.edu/cnn_art/data/single_layer.png" width="700">`[image source] http://vision03.csail.mit.edu/cnn_art/`
+<img src="http://vision03.csail.mit.edu/cnn_art/data/single_layer.png" width="700">
 ### Reduce Overfitting
 ***
 #### Data Augmentation
@@ -31,10 +31,11 @@ Set a node's output to zero with probabilty 0.5 while training. At test time, we
 ## U-Net
 ### Architecture
 ***
-<img src="http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-architecture.png" width="700">`[image source] http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/`
+<img src="http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-architecture.png" width="700">
+
 ### Upsampling
 ***
-<img src="upSample.png" width="700">`[image source] http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/`
+<img src="upSample.png" width="700">
 
 ## SegNet
 <img src="http://mi.eng.cam.ac.uk/projects/segnet/images/segnet.png" width="700">
