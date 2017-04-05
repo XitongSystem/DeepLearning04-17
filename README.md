@@ -31,12 +31,10 @@ Set a node's output to zero with probabilty 0.5 while training. At test time, we
 ## U-Net
 ### Architecture
 ***
-<img src="http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-architecture.png" width="700">
-`[image source] http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/`
+<img src="http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-architecture.png" width="700">`[image source] http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/`
 ### Upsampling
 ***
-<img src="upSample.png" width="700">
-`[image source] http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/`
+<img src="upSample.png" width="700">`[image source] http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/`
 
 ## SegNet
 <img src="http://mi.eng.cam.ac.uk/projects/segnet/images/segnet.png" width="700">
